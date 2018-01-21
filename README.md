@@ -1,7 +1,7 @@
 # Configuração do servidor para o blog da Smarttbot
 
 ## Ambiente
-Amazon AWS(nível gratuito)
+Amazon AWS (nível gratuito)
 
 ### Instância
 Ubuntu Server 16.04 LTS (HVM), SSD Volume Type (64-bits) - Type: t2.micro
